@@ -1,4 +1,5 @@
-public class BiodataHernanda {
+public classs BiodataHernanda {
+
     public static void main(String[] args) {
         System.out.printIn(x:"Nama          : Hernanda Rizka Utami");
         System.out.printIn(x:"TTL           : Sidoarjo, 01 Maret 2004");
